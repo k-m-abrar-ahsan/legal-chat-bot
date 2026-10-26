@@ -1,0 +1,1202 @@
+{
+  "document_metadata": {
+    "title": "The Road Transport Act, 2018",
+    "act_number": "Act No. XLVII of 2018",
+    "date_of_commencement": "01 November, 2019 AD"
+  },
+  "hierarchy": [
+    {
+      "chapter_number": "I",
+      "chapter_title": "Initial",
+      "sections": [
+        {
+          "section_number": "1",
+          "section_title": "Short title and commencement",
+          "content": {
+            "sub_section_1": "This Act may be called as the Road Transport Act, 2018.",
+            "sub_section_2": "It shall come into force on such date, as the Government may, by notification in the Official Gazette, appoint."
+          }
+        },
+        {
+          "section_number": "2",
+          "section_title": "Definitions",
+          "content": {
+            "preamble": "In this Act, unless there is anything repugnant in the subject or context,-",
+            "definitions": [
+              "(1) 'unladen weight' means the weight of a vehicle, or a trailer including all equipment ordinarily used with the vehicle or trailer when working, but excluding the weight of a driver...",
+              "(2) 'articulated motor vehicle' means a motor vehicle consisting of a prime mover and a semi-trailer that is pivoted to and superimposed on the prime mover...",
+              "(3) 'express carriage' means a motor vehicle used for carrying or adapted for carrying passengers for hire and having no fare for less than 32 (thirty-two) kilometres...",
+              "(4) 'axle' means the weight bearing rod or rotating rod of a motor vehicle or trailer...",
+              "(5) 'axle load or axle weight' means the total axle weight transmitted by all wheels attached to the axle...",
+              "(6) 'weight' means the total weight transmitted for the time being by the wheels...",
+              "(7) 'authority' means the Bangladesh Road Transport Authority...",
+              "(8) 'contract carriage' means a motor vehicle which carries a passenger or passengers for hire under a contract...",
+              "(9) 'conductor' means a person engaged in collecting fares from passengers, regulating their entrance into, or exit from passenger vehicle...",
+              "(10) 'conductor's licence' means the document issued by the authority authorising the person specified therein to act as a conductor;",
+              "(11) 'public transport' means any motor vehicle used for or suitable for use to transport passengers in exchange of fare;",
+              "(12) 'chassis' means the main functional part or frame or foundation structure of a motor vehicle...",
+              "(13) 'tractor' means a motor vehicle that is primarily designed, manufactured and used for agriculture...",
+              "(14) 'traffic sign or signal' means all such embedded or portable signs, signals, markings and instruments...",
+              "(15) 'tax token' means a token or card or certificate issued to a taxpayer...",
+              "(16) 'taxi cab' means any motor vehicle which is built or used for carrying no more than 4 (four) passengers except the driver in exchange for a hire charge;",
+              "(17) 'train weight' means the total laden weight of the trailer and prime mover;",
+              "(18) 'trailer' means any motor vehicle, instrument, machine or other structure without any sidecar or front car...",
+              "(19) 'driving licence' means the document issued by the Authority, authorising the person specified therein to drive a motor vehicle...",
+              "(20) 'accident' means a mishap or an occurrence of incidence caused by or arising out of the use of a motor vehicle...",
+              "(21) 'demerit point' means the point deducted from the points given to a motor vehicle driver...",
+              "(22) 'dual purpose vehicle' means a motor vehicle which is built or adapted for transporting both passengers and goods...",
+              "(23) 'prescribed' means prescribed by rules or regulations;",
+              "(24) 'registered laden weight' means the laden weight approved by the Authority...",
+              "(25) 'silent zone' means the area or place declared or indicated by the relevant authority where the use of sound-signals is prohibited;",
+              "(26) 'transport vehicle' means any commercial vehicle, personal service vehicle, freight vehicle, bus, light or heavy articulated vehicle...",
+              "(27) 'parking area' means the places designated by the appropriate authority or institution where a motor vehicle may stand or be parked...",
+              "(28) 'permit' means any permission letter or permit issued or endorsed by the Authority...",
+              "(29) 'professional driving license' means a driving license issued by the Authority...",
+              "(30) 'public place' means any road, highway or pathway or any place where the public has the right of entry...",
+              "(31) 'disability-friendly motor vehicle' means a motor vehicle specially designed and built for the use of a person with a disability...",
+              "(32) 'regulations' means regulations made under this Act;",
+              "(33) 'prime mover' means a motor vehicle that is built or adapted to be used for hauling a trailer or other motor vehicle...",
+              "(34) 'fitness certificate' means a certificate of fitness of a motor vehicle...",
+              "(35) 'commercial motor vehicle' means any public transport or private vehicle used or operated under any permit...",
+              "(36) 'bus' means a passenger motor vehicle with a wheel base of at least 4900 mm...",
+              "(37) 'rules' means rules made under this Act;",
+              "(38) 'heavy motor vehicle' means a motor vehicle or a combination of a motor vehicle and trailer... exceeds 12,000 kilograms...",
+              "(39) 'fare' means the charges payable for a ticket for the purpose of travelling...",
+              "(40) 'medium motor vehicle' means a motor vehicle... from 7501 to 12,000 Kilograms;",
+              "(41) 'microbus' means any motor vehicle built or manufactured or used for carrying a minimum of 8 (eight) and a maximum of 15 (fifteen) passengers...",
+              "(42) 'motor vehicle' means any mechanically propelled vehicle or transport vehicle...",
+              "(43) 'motor vehicle driving training school' means any school or institution that provides education and training...",
+              "(44) 'motor vehicle driver' means a person who drives a motor vehicle or has actual control over it;",
+              "(45) 'motor vehicle owner' means a person who has title to motor vehicle, the person in possession of the motor vehicle under a lease agreement, power of attorney holder, heirs, or guardian...",
+              "(46) 'motorcycle' means a two-wheeler motor vehicle;",
+              "(47) 'Passenger and Freight Transport Committee' or 'Transport Committee' means the Committee constituted under section 27;",
+              "(48) 'registration certificate' means the motor vehicle registration certificate issued by the Authority;",
+              "(49) 'route' means a specific road or highway that a motor vehicle crosses...",
+              "(50) 'learner's driving license' means a temporary license issued to a person for a specified period of time for training...",
+              "(51) 'semi-trailer' means a trailer made or constructed or adapted in this way that forms part of an articulated vehicle;",
+              "(52) 'stage carriage' means any other passenger motor vehicle carrying or used or adapted to carry more than 6 (six) passengers...",
+              "(53) 'light motor vehicle' means a motor vehicle... of maximum 7500 kilograms;",
+              "(54) 'authorised employee' means any employee authorised under this Act by the Government or the Authority..."
+            ]
+          }
+        },
+        {
+          "section_number": "3",
+          "section_title": "Application of this Act",
+          "content": {
+            "sub_section_1": "The provisions of this Act shall be supplementary to the laws existing in this regard including Bangladesh Road Transport Authority Act, 2017."
+          }
+        }
+      ]
+    },
+    {
+      "chapter_number": "II",
+      "chapter_title": "Conferral of Driving License, etc.",
+      "sections": [
+        {
+          "section_number": "4",
+          "section_title": "Restrictions on driving a motor vehicle without driving license",
+          "content": {
+            "sub_section_1": "No person shall drive or give authority to drive any motor vehicle in a public place without a driving license or, as the case may be, without an learner's driving license or using an expired license.",
+            "sub_section_2": "No person shall drive a motor vehicle of any class or category other than the class or category for which he has obtained a license to drive a motor vehicle: Provided that any person holding a heavy driving license may drive a motor vehicle of light and middle class or category.",
+            "sub_section_3": "The class or category of motor vehicle and other related matters shall be prescribed by rules."
+          }
+        },
+        {
+          "section_number": "5",
+          "section_title": "Permit for operating public transport, etc.",
+          "content": {
+            "sub_section_1": "No person shall be allowed to operate or give authority to operate public transport without a permit issued by the Authority.",
+            "sub_section_2": "The operation of public transport, issuance of permits for such operation and other matters ancillary thereto shall be prescribed by rules."
+          }
+        },
+        {
+          "section_number": "6",
+          "section_title": "Issuance of driving license, renewal, change of address, etc.",
+          "content": {
+            "sub_section_1": "In order to obtain a driving license, a person shall, subject to payment of the prescribed fee, submit an application to the authority in the prescribed form and manner along with an attested copy of the national identity card.",
+            "sub_section_2": "In order to obtain a driving license under sub-section (1), a person shall have to fulfil the following conditions, namely:- (a) in case of a non-professional driving license, being at least 18 (eighteen) years of age and in case of professional driving license, at least 21 (twenty one) years of age; (b) having passed at least eighth class or equivalent examination; (c) being physically and mentally capable; (d) having passed in the motor vehicle driving ability test; and (e) other conditions prescribed by rules.",
+            "sub_section_3": "If any person does not fulfill the conditions prescribed by this Act or rules, the Authority shall reject the application submitted under sub-section (1).",
+            "sub_section_4": "If any person fulfils the conditions prescribed by this Act or rules, the Authority shall issue him a driving license and such license, with an exception to the learner's driving license, shall be applicable for the whole of Bangladesh.",
+            "sub_section_5": "The driving license shall not be transferable.",
+            "sub_section_6": "The Authority may, in the prescribed manner and form, issue or renew license for any class or category or alter or add class or category of the license.",
+            "sub_section_7": "The Authority shall issue a driving license for a specified period and before the expiry of such period, an application may be made to the Authority for its renewal...",
+            "sub_section_8": "If any person changes the address as mentioned in the driving license, he shall apply to the Authority... within 3 (three) months of the change of such address...",
+            "sub_section_9": "The procedure for issuing license, expiration, renewal, fee, process for confirming physical and mental fitness and other related matters shall be prescribed by rules."
+          }
+        },
+        {
+          "section_number": "7",
+          "section_title": "Driving license for the physically challenged person",
+          "content": {
+            "sub_section_1": "The Authority, in the prescribed manner, and by assessing the special physical capability may, if it deems fit, issue a driving license to a physically challenged person to drive a disability-friendly motor vehicle."
+          }
+        },
+        {
+          "section_number": "8",
+          "section_title": "Driving license to drive motor vehicles of defense force",
+          "content": {
+            "sub_section_1": "For driving the motor vehicles of the defense force, a driving license may be issued by the respective authorities of the concerned forces... Provided that motor vehicles used for personal and commercial purposes shall be excluded from its scope.",
+            "sub_section_2": "the Authority may, subject to fulfilment of the conditions prescribed under sub-section (2) of section 6 and without conducting a qualification test, may issue a driving license of respective class to any person serving in the defense forces...",
+            "sub_section_3": "The Government may, at any time, inquire into information relating to the driving license issued under sub-section (1) to the licensing authority of the concerned force..."
+          }
+        },
+        {
+          "section_number": "9",
+          "section_title": "Driving license for foreign national",
+          "content": {
+            "sub_section_1": "Any foreign national may, by submitting and endorsing the driving license issued by the appropriate authority of his own country, drive a motor vehicle all over Bangladesh during the validity of the said license.",
+            "sub_section_2": "Any foreign national may, subject to payment of prescribed fees, apply to the authorities... for obtaining a driving license...",
+            "sub_section_3": "If a foreign national violates any provision of this Act... the Authority may suspend, rescind or cancel his driving license or invalidate the endorsed foreign driving license..."
+          }
+        },
+        {
+          "section_number": "10",
+          "section_title": "Prohibitions on making, issuing or renewing driving license except the Authority",
+          "content": {
+            "sub_section_1": "No person, organization or association other than the Authority shall make or issue or renew a driving license.",
+            "sub_section_2": "No person shall tamper or change any driving license.",
+            "sub_section_3": "No person shall use any duplicate, fake or counterfeited driving license."
+          }
+        },
+        {
+          "section_number": "11",
+          "section_title": "Allocation of points, deduction etc.",
+          "content": {
+            "sub_section_1": "Except against any learner's driving license, 12 (twelve) points shall be allotted against any driving license issued by the Authority, which shall be deductible as demerit points due to the occurrence of offences...",
+            "sub_section_2": "In the case of deduction of points under sub-section (1), the following matters shall be taken into consideration, such as:- (a) driving a motor vehicle in violation of red light; (b) overtaking at a place designated for a pedestrian crossing... (c) direct entry into the main road without stopping... (d) violation of the prescribed speed limit... (e) creating obstructions... (f) driving a motor vehicle from the opposite direction... (g) reckless and dangerous driving... (h) driving under the influence of alcohol... (i) any other matter prescribed by rules.",
+            "sub_section_3": "The manner of allocation, increase-decrease and deduction of points and other ancillary matters shall be prescribed by rules."
+          }
+        },
+        {
+          "section_number": "12",
+          "section_title": "Disqualifying the person holding a driving license and cancellation, withdrawal and suspension of license",
+          "content": {
+            "sub_section_1": "If the Authority... has reasonable cause to believe that a person holding a driving license is sick, unnatural, physically or mentally incapable... the Authority may disqualify such person...",
+            "sub_section_2": "If any person holding a driving license violates any provision of this Act... the Authority may... suspend, withdraw or cancel the driving license...",
+            "sub_section_3": "In the case of suspension, withdrawal or cancellation of a person's driving license, he shall not drive any motor vehicle.",
+            "sub_section_4": "If any driving license under this section is suspended... the person holding such driving license may... apply to the Authority for reconsideration.",
+            "sub_section_5": "Upon receipt of an application under sub-section (4), the Authority shall dispose of such application...",
+            "sub_section_6": "Matters related to the recovery of the points deducted... shall be prescribed by rules.",
+            "sub_section_7": "Where a person is convicted by a competent court for committing an offence under this Act, the same competent court may order to disqualify such person...",
+            "sub_section_8": "If any person holding a driving license is declared disqualified... it shall be recorded by the Authority in the prescribed manner."
+          }
+        },
+        {
+          "section_number": "13",
+          "section_title": "Conditions for appointment of motor vehicle drivers, etc.",
+          "content": {
+            "sub_section_1": "No person or organization shall appoint any person as a motor vehicle driver or give him permission to drive a motor vehicle if that person does not have a driving license...",
+            "sub_section_2": "No person or organization shall appoint a person as a driver of public transport... without executing a written contract and an appointment letter...",
+            "sub_section_3": "The driver of a public transport appointed under sub-section (2) shall preserve, in the public transport, his appointment letter...",
+            "sub_section_4": "The conditions for appointment of the driver of public transport... shall be prescribed by rules."
+          }
+        }
+      ]
+    },
+    {
+      "chapter_number": "III",
+      "chapter_title": "License for Conductor",
+      "sections": [
+        {
+          "section_number": "14",
+          "section_title": "License for Conductor",
+          "content": {
+            "sub_section_1": "No person shall act as a conductor in any public transport without a conductor's license.",
+            "sub_section_2": "The procedure relating to the issuance, validity period, renewal, suspension, withdrawal and cancellation of conductor's license... shall be prescribed by rules."
+          }
+        },
+        {
+          "section_number": "15",
+          "section_title": "Appointment of Conductor, etc.",
+          "content": {
+            "sub_section_1": "No person or organization shall appoint a person as a conductor of public transport without executing a written contract and an appointment letter...",
+            "sub_section_2": "The conditions for appointment of conductor of public transport... shall be prescribed by rules."
+          }
+        }
+      ]
+    },
+    {
+      "chapter_number": "IV",
+      "chapter_title": "Registration of Motor Vehicles",
+      "sections": [
+        {
+          "section_number": "16",
+          "section_title": "Registration of Motor Vehicles",
+          "content": {
+            "sub_section_1": "No person or owner of a motor vehicle shall drive or give permission to drive a motor vehicle on roads, highways or public places without a registration certificate.",
+            "sub_section_2": "Any person, organization or motor vehicle owner shall apply in writing for the registration of a motor vehicle in the prescribed form and manner, subject to payment of prescribed fees...",
+            "sub_section_3": "No person, organization or owner of a motor vehicle shall drive or give permission to drive a motor vehicle without attaching and displaying the registration number plate.",
+            "sub_section_4": "The application procedure, fees, granting application, rejection, validity period, renewal and other ancillary matters of a motor vehicle registration shall be prescribed by rules.",
+            "sub_section_5": "Prime movers and trailers shall be registered separately, and separate registration number plates shall be displayed: Provided that in the case of articulated motor vehicles, separate registration shall not be required for a semi-trailer attached to the prime mover.",
+            "sub_section_6": "The registration of motor vehicles used in the defence forces shall be done by the respective authorities of the concerned forces... If any motor vehicle of any foreign embassy or international organization is sold or transferred within Bangladesh, it shall be re-registered..."
+          }
+        },
+        {
+          "section_number": "17",
+          "section_title": "Prohibition on the use and display of fake registration number",
+          "content": {
+            "sub_section_1": "No person shall distort or alter the registration certificate as issued in his favour or use or display any duplicate, fake or forged registration certificate."
+          }
+        },
+        {
+          "section_number": "18",
+          "section_title": "Temporary registration",
+          "content": {
+            "sub_section_1": "Any motor vehicle owner or organization may apply to the concerned Registration Authority for temporary registration subject to the payment of a fee.",
+            "sub_section_2": "The application procedure, form, fee, granting of application... relating to temporary registration shall be prescribed by rules."
+          }
+        },
+        {
+          "section_number": "19",
+          "section_title": "Place of Registration",
+          "content": {
+            "sub_section_1": "The registration shall be made with the office of the Registration Authority situated within the jurisdiction of the permanent or current address of the owner of the motor vehicle.",
+            "sub_section_2": "If the address of the owner of any motor vehicle changes, the concerned registration authority shall... record the changed address in the prescribed manner within 30 (thirty) days of such application."
+          }
+        },
+        {
+          "section_number": "20",
+          "section_title": "Display of the motor vehicle",
+          "content": {
+            "sub_section_1": "For inspection, the motor vehicle shall be displayed before the Authority in the following cases, such as: (a) at the time of registration; (b) at the time of recording 'change of ownership' in the registration certificate; (c) at the time of any technical, internal or external modification of a registered motor vehicle; and (d) at the time of receiving the fitness certificate of the motor vehicle.",
+            "sub_section_2": "If any person or organization fails to display the motor vehicle in accordance with the provisions of sub-section (1), the Authority shall refuse to record the information relating to registration or, as the case may be, change of ownership or to make the technical, internal or external changes."
+          }
+        },
+        {
+          "section_number": "21",
+          "section_title": "Change of ownership of motor vehicles",
+          "content": {
+            "sub_section_1": "If the ownership of a motor vehicle is transferred, the transferor shall inform the authority in the prescribed form and manner, and a copy thereof shall be sent to the transferee within 30 (thirty) days of such transfer.",
+            "sub_section_2": "Without regard to the reason for the transfer of ownership, the transferee shall, within 60 (sixty) days of such transfer, apply in the prescribed form and manner to the Authority for registration in his own name.",
+            "sub_section_3": "Upon receipt of the information and application under sub-sections (1) and (2), the Authority shall complete all the formalities related to registration in the name of the transferee within 30 (thirty) days and shall record it in the relevant register.",
+            "sub_section_4": "Other matters and fees under this section shall be prescribed by rules."
+          }
+        },
+        {
+          "section_number": "22",
+          "section_title": "Special provisions relating to the registration of motor vehicles under hire-purchase contracts",
+          "content": {
+            "sub_section_1": "In the case of registration of a motor vehicle purchased through a contract with the condition of making payment through lease or installments, the Authority shall record important information relating to such contract in the registration certificate.",
+            "sub_section_2": "Where any motor vehicle registered under this chapter is bound by a sale-contract with any person on the condition that the price will be paid through lease or in instalments, the authority shall... record important information relating to such contract in the registration certificate.",
+            "sub_section_3": "The Authority may delete the information recorded under sub-section (1) or (2) from the registration certificate of a motor vehicle on its satisfaction to the effect that, the sale-contract... has come to an end...",
+            "sub_section_4": "Matters relating to the payment of price through lease or in instruments under sub-sections (1) and (2)... shall be prescribed by rules."
+          }
+        },
+        {
+          "section_number": "23",
+          "section_title": "Power to determine the number of or limit for the registration of motor vehicle",
+          "content": {
+            "sub_section_1": "The Government may, by notification in the Official Gazette, determine the number or limit of motor vehicle registration for any person, family, organization or any area."
+          }
+        },
+        {
+          "section_number": "24",
+          "section_title": "Suspension, cancellation of motor vehicle registration, etc.",
+          "content": {
+            "sub_section_1": "In the event of a breach of any of the conditions relating to the registration of motor vehicles as prescribed by this Act or rules... the Authority may suspend or, as the case may be, cancel the relevant registration by holding a hearing and recording the reasons thereof.",
+            "sub_section_2": "If the registration of any motor vehicle is suspended or cancelled under sub-section (1), the aggrieved person or organization may appeal against such order to the Government... within not more than 30 (thirty) days.",
+            "sub_section_3": "The Government shall dispose of an appeal filed under sub-section (2) in prescribed time and manner.",
+            "sub_section_4": "The order issued by the Government shall be deemed to be final."
+          }
+        },
+        {
+          "section_number": "25",
+          "section_title": "Fitness of motor vehicle",
+          "content": {
+            "sub_section_1": "No motor vehicle shall operate or be given permission for operation, without a fitness certificate or with an expired fitness certificate or after the expiration of economic life or which is inapt for fitness, risky or is damaged or is discoloured, or without the permission of the Authority, by changing the prescribed colour of a motor vehicle which is dilapidated, discolored or environment polluter.",
+            "sub_section_2": "If a fitness certificate is issued to a motor vehicle which is not suitable for fitness as per the provisions of sub-section (2), departmental action may be taken against the issuing employee."
+          }
+        },
+        {
+          "section_number": "26",
+          "section_title": "Tax token",
+          "content": {
+            "sub_section_1": "No motor vehicle other than the exempted motor vehicles in accordance with the provisions of the Motor Vehicles Tax Act, 1932... shall be allowed to drive or be permitted to be driven without using a tax token or using expired a tax token.",
+            "sub_section_2": "For collecting the tax token, the owner or organization of any motor vehicle shall have to pay the road tax, as prescribed by the Government regularly in the prescribed manner."
+          }
+        }
+      ]
+    },
+    {
+      "chapter_number": "V",
+    "chapter_title": "Transport Committee, Route Permit, etc.",
+    "sections": [
+      {
+        "section_number": "27",
+        "section_title": "Passenger and Freight Transport Committee",
+        "content": {
+          "sub_section_1": "The Authority, by notification in the Official Gazette, shall form a Passenger and Freight Transport Committee in each metropolitan area, division and district and determine its scope of work.",
+          "sub_section_2": "Notwithstanding anything contained in sub-section (1), the Authority may, with the prior approval of the Government, by notification in the official Gazette, form a separate Transport Committee for any area of Bangladesh and determine its scope of work.",
+          "sub_section_3": "The committee constituted under sub-sections (1) and (2) shall have at least 1 (one) representative from the transport owners 'association and workers' organization of the concerned jurisdiction."
+        }
+      },
+      {
+        "section_number": "28",
+        "section_title": "Route permit",
+        "content": {
+          "sub_section_1": "The owner of any transport vehicle shall not use or permit to use such transport vehicle in a public place without a route permit issued by the Authority or the Transport Committee... Provided, even if the route permit does not specifically mention, (a) no stage carriage shall be used as a contract carriage; (b) goods shall not be transported in any stage carriage; and (c) the owner of the transport vehicle shall not transport people or goods in the stage carriage for business or commercial needs.",
+          "sub_section_2": "Subject to the time and conditions prescribed by rules, the Authority... may grant temporary permission to operate the transport outside the prescribed route, for religious and socio-cultural events or for seasonal business purpose.",
+          "sub_section_3": "The Authority or the Transport Committee... may, in their respective jurisdictions, change the rout permit or, as the case may be, suspend or cancel the route permit for the breach of conditions of the route permit.",
+          "sub_section_4": "Other matters relating to the route permit granted under this section shall be prescribed by rules."
+        }
+      },
+      {
+        "section_number": "29",
+        "section_title": "Issuance of route permit in the case of foreign nationals, etc.",
+        "content": {
+          "sub_section_1": "The matters relating to the entrance of a foreign national into Bangladesh by a private motor vehicle, public transport or freight transport motor vehicle; payment of fee at the port of entry, staying, endorsement or counter-sign of motor vehicle registration and driving license and the matters relating to the issuance of route permit shall be prescribed by rules.",
+          "sub_section_2": "Notwithstanding anything contained in sub-section (1), in the case of foreign freight transport motor vehicles, the rules and regulations relating to the existing axle weight limit in Bangladesh, operation of axle load control station and customs shall be followed."
+        }
+      },
+      {
+        "section_number": "30",
+        "section_title": "Transport vehicle exempted from route permit",
+        "content": {
+          "sub_section_1": "The provisions of the Route Permit under this Chapter shall not apply to the following types of transport vehicle, namely:- (a) transport vehicle owned by any person or organization or entity on behalf of the Government; (b) any transport vehicle used by the Government for government purposes; (c) transport vehicles owned or contracted by local government institutions... (d) transport vehicles used for disciplined force, fire service and civil defence or ambulance service; (e) transport vehicles engaged in carrying and burying dead bodies; (f) transport vehicle engaged in hauling a disordered motor vehicle; (g) transport motor vehicle used only for such purpose by a person or entity, that manufactures or builds motor vehicle... (h) transport vehicle of any educational institution recognized by the Government; (i) transport vehicle used for the purpose of training... (j) mobile transport vehicles used for mobile libraries, mobile dispensaries, mobile toilets... (k) any such vehicle which, due to natural calamity, needs to be diverted to a different route...",
+          "sub_section_2": "The Government or the Authority... may, by notification in the Official Gazette, re-determine or amend the class of transport vehicles which was exempted from the route permit under sub-section (1)."
+        }
+      },
+      {
+        "section_number": "31",
+        "section_title": "Commercial use of motor vehicles",
+        "content": {
+          "sub_section_1": "No commercial activity shall be conducted by any such motor vehicle to which route permit does not apply: Provided that the Authority may give permission, for conducting special types of commercial activities, to such motor vehicle which may otherwise be operated without a route permit.",
+          "sub_section_2": "Without the approval of the Government or the Authority, no such mobile commercial activity, which is not related to the transport business, shall be conducted in a motor vehicle... Provided that sales, transfers or promotional activities under a Government program shall be exempted from this."
+        }
+      }
+    ]
+  },
+  {
+    "chapter_number": "VI",
+    "chapter_title": "Control on Motor Vehicles, etc.",
+    "sections": [
+      {
+        "section_number": "32",
+        "section_title": "Power of the Government to control road transport",
+        "content": {
+          "sub_section_1": "The Government or the Authority... may, in the public interest, by notification in the official Gazette and, if necessary, prohibit or control the movement of all or any class of motor vehicles in all parts of Bangladesh or any specific area...",
+          "sub_section_2": "Where there is an apprehension of injury to the driver, passenger, road user or of damage to the road by any motor vehicle, the Government or the Authority... may withdraw such motor vehicle or any class of motor vehicles from the road or may give directions to stop the operation of such vehicles..."
+        }
+      },
+      {
+        "section_number": "33",
+        "section_title": "Determination of the number of motor vehicles",
+        "content": {
+          "sub_section_1": "The Government or the Authority... may, in public interest, determine the number of any type of motor vehicles for any area or for the whole of Bangladesh.",
+          "sub_section_2": "If the number of motor vehicles in any area exceeds the number as determined under sub-section (1), the excess number of motor vehicles may be permitted to operate in other areas as per demand."
+        }
+      },
+      {
+        "section_number": "34",
+        "section_title": "Determination of the number of seats and fare for public transport",
+        "content": {
+          "sub_section_1": "The Authority or the Passenger and Freight Transport Committee may determine the number of seats for women, physically or mentally challenged persons, elderly persons and for children in public transport.",
+          "sub_section_2": "The Authority may... determine or reschedule the rate of fare and the minimum fare for public transport: Provided that it shall not apply to the determination of fares for air-conditioned luxury public transport...",
+          "sub_section_3": "No public transport shall be allowed to transport passengers without displaying the fare chart in an easily visible place.",
+          "sub_section_4": "No owner, driver, conductor, person or organization of any public transport shall claim or collect additional fare as prescribed under sub-section (2)."
+        }
+      },
+      {
+        "section_number": "35",
+        "section_title": "Meters, rent, etc. of contract carriage",
+        "content": {
+          "sub_section_1": "No owner of a contract carriage or his representative or organization shall claim or collect any amount of deposit in addition to the amount fixed by the Government on a daily basis.",
+          "sub_section_2": "No person or organization shall, after calibrating the rental meter of the contract carriage at the rate fixed by the Government, alter it illegally or assist in any such alteration.",
+          "sub_section_3": "The owner or driver of a contract carriage shall be obliged to go by the meter to any destination within the area specified in the route permit and shall not claim or collect any amount of fare in addition to the amount displayed on the meter."
+        }
+      },
+      {
+        "section_number": "36",
+        "section_title": "Determination of economic life",
+        "content": {
+          "sub_section_1": "The Government or the Authority, with the prior approval of the Government, may determine the economic life of any type of motor vehicle by notification in the official Gazette."
+        }
+      },
+      {
+        "section_number": "37",
+        "section_title": "Removal of illegal establishments along the highway",
+        "content": {
+          "sub_section_1": "Notwithstanding anything contained in any other law... no person shall, for commercial or any other purpose, illegally construct any permanent or temporary establishment (e.g., bazaar, shop, etc.) in the place owned by the highway or... within 10 (ten) meters on either side of the slope of the highway.",
+          "sub_section_2": "The Police or the Authority or the Department of Roads and Highways... may immediately remove any permanent or temporary establishment constructed illegally... for the purpose of ensuring the safe movement of motor vehicles..."
+        }
+      },
+      {
+        "section_number": "38",
+        "section_title": "Development and management of Terminals and prohibition on extortion",
+        "content": {
+          "sub_section_1": "the Government or the Authority... may, by notification in the Official Gazette, develop, maintain, supervise, manage and operate a transport terminal for the purpose of proper movement of passengers or goods.",
+          "sub_section_2": "For fulfilling the purpose of sub-section (1), the Authority or the Local Government Institution may fix a terminal charge for mitigating the cost of development, maintenance, supervision, management and operation of the terminal.",
+          "sub_section_3": "No money, except for the terminal charge fixed under sub-section (2), shall be illegally collected from any transport vehicle or motor vehicle entering or exiting the terminal or while operating on the road, highway or on a public place."
+        }
+      },
+      {
+        "section_number": "39",
+        "section_title": "Determination of working hours",
+        "content": {
+          "sub_section_1": "The Government may, by notification in the official Gazette, determine the working hours and recess for the drivers, conductors, and helpers-cum-cleaners of the transport vehicles...",
+          "sub_section_2": "The employing person or organization, the driver, conductor, helper-cum-cleaner of the transport vehicle shall abide by the working hours and recess determined under sub-section (1)."
+        }
+      }
+    ]
+  },
+  {
+    "chapter_number": "VII",
+    "chapter_title": "Construction of Motor Vehicles, Equipment Layout and Maintenance",
+    "sections": [
+      {
+        "section_number": "40",
+        "section_title": "Construction of motor vehicles, equipment layout and maintenance",
+        "content": {
+          "sub_section_1": "The construction, equipment lay out and maintenance of motor vehicles shall be done in such a way that the driver of the motor vehicle can control it effectively.",
+          "sub_section_2": "For driving in Bangladesh, motor vehicles shall have right-side-driven steering: Provided that, for the motor vehicles used for special purposes, the Government may, by notification in the official Gazette, approve the steering of exceptional features.",
+          "sub_section_3": "The length, width, height, seating arrangement, wheel base, rear overhang, front overhang, side overhang, shape, nature and condition of wheels, brakes and steering gears, horns, safety glasses, signalling lights and reflectors, speed governors, smoke emission systems... shall not be changed in deviation to the technical specification...",
+          "sub_section_4": "In the case of any technical, internal or external change to the registered motor vehicle, approval shall be obtained from the Authority in the prescribed manner.",
+          "sub_section_5": "The Government or the Authority... may, by notification in the official Gazette, prescribe colour for any particular type of motor vehicle, and such prescribed colour shall not be altered without the approval..."
+        }
+      }
+    ]
+  },
+  {
+    "chapter_number": "VIII",
+    "chapter_title": "Control of traffic and weight limit, environmental pollution, etc.",
+    "sections": [
+      {
+        "section_number": "41",
+        "section_title": "Traffic control",
+        "content": {
+          "sub_section_1": "For the purpose of controlling the traffic and ensuring road safety, the Government or any institution or organization empowered by it may control, in the prescribed manner, the movement of traffic and the use of motor vehicles, speed limit, parking area, use of traffic signs and signals, movement etc."
+        }
+      },
+      {
+        "section_number": "42",
+        "section_title": "Use of traffic signs and signals",
+        "content": {
+          "sub_section_1": "The Government or any institution... may install, replace or remove traffic signs and may erect or display any sign on roads, highways or in public places for the purpose of controlling the speed limit, weight limit, parking and movement of motor vehicles...",
+          "sub_section_2": "Every driver of motor vehicles, pedestrian or road user shall abide by the traffic signs, signals, etc.",
+          "sub_section_3": "Every user of the road shall use certain zebra crossings, foot overbridges, underpasses or similar facilities, if any, for the purpose of crossing the road or highway.",
+          "sub_section_4": "The Government or any institution... may, if necessary, instruct a driver of a motor vehicle to stop the vehicle and to keep the motor vehicle immobile for a reasonable period of time."
+        }
+      },
+      {
+        "section_number": "43",
+        "section_title": "Axle weight, control of weight limit, etc.",
+        "content": {
+          "sub_section_1": "No motor vehicle driver or person shall drive, permit to drive or compel to drive any motor vehicle on the road or highway that carries additional weight in excess to the permitted laden weight, train weight or axle weight.",
+          "sub_section_2": "No motor vehicle owner, organization, driver or any other person shall increase the unladen weight mentioned in the registration certificate.",
+          "sub_section_3": "The Government or any institution... may check the laden weight, train weight or axle weight... and give instructions to reduce the weight excess to the approved weight...",
+          "sub_section_4": "Notwithstanding anything contained in sub-section (3), the Government, or any institution... may impose fine at an increasing rate for excess weight...",
+          "sub_section_5": "The Government shall, by gazette notification, determine or re-determine the rate of fine referred to in sub-section (4).",
+          "sub_section_6": "The Government or any institution... may determine or re-determine the maximum laden weight, train weight or axle weight of a motor vehicle or trailer by notification in the official Gazette.",
+          "sub_section_7": "If any motor vehicle carrying excess weight... causes damage to roads, highways, bridges, culverts... the owner and driver of the concerned motor vehicle shall be obliged to pay the compensation determined by the Government within 3 (three) months.",
+          "sub_section_8": "If the owner and driver of the motor vehicle fail to pay the compensation... the said compensation may be recovered in accordance with the Public Demand Recovery Act, 1913."
+        }
+      },
+      {
+        "section_number": "44",
+        "section_title": "Control of speed limit of motor vehicles",
+        "content": {
+          "sub_section_1": "The Authority may, in consultation with the institution or organization that constructs and maintains the roads or highways, determine or re-determine the speed limit of motor vehicles for different types of roads.",
+          "sub_section_2": "The driver of any motor vehicle shall not drive a motor vehicle on the road or highway exceeding the prescribed speed limit or recklessly.",
+          "sub_section_3": "No motor vehicle driver shall overtake dangerously or in an unauthorized way on roads or highways or cause any obstruction in the movement of motor vehicles."
+        }
+      },
+      {
+        "section_number": "45",
+        "section_title": "Control of sound limit",
+        "content": {
+          "sub_section_1": "The Government or any institution... may, by notification in the Official Gazette, from time to time, determine the sound limit for the motor vehicle.",
+          "sub_section_2": "No motor vehicle driver may produce any sound higher than the sound limit determined under sub-section (1).",
+          "sub_section_3": "No motor vehicle driver may blow any horn while passing a quiet area declared by order of the Government...",
+          "sub_section_4": "No motor vehicle driver, owner or operator shall, or permit to install, replace or use any instrument, part of instrument or horn in a motor vehicle that produces sound louder than the prescribed level.",
+          "sub_section_5": "Notwithstanding anything contained in sub-sections (2) and (3), ambulances, fire-extinguisher vehicles, vehicles engaged in emergency rescue work and motor vehicles used for carrying out urgent public duties may be fitted with sound horns approved by the Authority.",
+          "sub_section_6": "For the purpose of this section, the provisions of the Environmental Protection Act, 1995 and the rules made thereunder shall be complied with the highest possible extent."
+        }
+      },
+      {
+        "section_number": "46",
+        "section_title": "Prohibition on driving risky, environment polluter motor vehicles, etc.",
+        "content": {
+          "sub_section_1": "The Government may, by notification in the Official Gazette, may determine the level of emission of smoke that pollutes the environment or the level of emissions or discharge of any other type in accordance with the Bangladesh Environmental Protection Act, 1995...",
+          "sub_section_2": "When any motor vehicle emits smoke that pollute the environment or emits or discharges any other things which exceed the level determined by the Government, the driver or owner or operator of such motor vehicle shall not operate such vehicle.",
+          "sub_section_3": "No machinery or parts that pollute the environment shall be installed, restored or used or be permitted to be used in a motor vehicle.",
+          "sub_section_4": "No person shall drive or be permitted to drive or operate any motor vehicle which is defective, risky or prohibited or has been banned or unsuitable for movement on roads or highways."
+        }
+      },
+      {
+        "section_number": "47",
+        "section_title": "Parking and stopping area for motor vehicles",
+        "content": {
+          "sub_section_1": "The Government, by notification in the official Gazette... may determine, from time to time, the parking area for the motor vehicle, the place of stopping and the place and time of picking up and dropping off the passengers and goods.",
+          "sub_section_2": "No motor vehicles shall be parked except in the area designated under sub-section (1) and no motor vehicles shall be stopped except at the place and time determined for the pickup of drop-off of passengers or goods.",
+          "sub_section_3": "No passenger or road user shall request or compel the motor vehicle driver or worker to park the motor vehicle in any area other than the parking area... and to stop the motor vehicle except at the designated place and time...",
+          "sub_section_4": "Any person, institution or organization providing parking facilities may collect the parking fee from the motor vehicle with the approval of the transport committee of the concerned area."
+        }
+      },
+      {
+        "section_number": "48",
+        "section_title": "The use of highway",
+        "content": {
+          "sub_section_1": "National, regional and district highways shall generally be used for high speed motor vehicles, and in such cases, the motor vehicles operating on the regional and national highways shall get priority respectively when high speed motor vehicle enters from the regional highway into the district highway and from the national highway into the regional highway.",
+          "sub_section_2": "In case of the entrance of motor vehicles from one highway to another, motor vehicles being driven on the highway with higher traffic shall be given priority."
+        }
+      },
+      {
+        "section_number": "49",
+        "section_title": "General instructions relating to the movement of motor vehicles",
+        "content": {
+          "sub_section_1": "The following instructions shall have to be followed while operating the motor vehicles, namely:- The first part (a) no driver shall drive a motor vehicle under the influence of alcohol... (b) no conductor or the motor vehicle worker shall stay inside a motor vehicle after taking drugs... (c) in no circumstances, the driver... shall allow the conductor... to drive... (d) motor vehicles shall not be driven in the opposite direction... (e) creating traffic jam... is prohibited; (f) no more than one passenger excluding the driver can be carried on a motorcycle... (g) the driver, conductor or any other person shall not pick up or drop off any passenger... while moving; (h) favourable facilities for the disabled passengers shall be provided... (i) no motor vehicle shall carry passenger or goods or freight in front of, behind to, on either side outside the body or on its rooftop; (j) no advertisement may be displayed... without the approval... (k) creating obstacles for the movement of vehicles or pedestrians... is prohibited; (l) move movement of a motor vehicle over the footpath... is prohibited; (m) no person shall drive or take away a motor vehicle without the permission... (n) no person, without lawful authority... shall enter or board on any standing motor vehicle. The second part (a) The driver... shall not use a mobile phone... (b) the driver... shall not drive a motor vehicle without fastening the seatbelt; (c) no passenger shall engage in any conduct... that disturbs the concentration of the driver... (d) no other passenger shall sit on the seat reserved for women, children, disabled and elderly passengers; (e) passengers shall follow the prescribed provisions regarding fastening of the seatbelts; (f) long-distance motor vehicles shall not carry more passengers... than the prescribed number... (g) no driver... shall engage in any form of misconduct or indecent treatment or harassment of the passengers... (h) motor vehicles shall not be driven at night using such high beams...",
+          "sub_section_2": "The Government or the Authority, with the prior approval of the Government may, by notification in the official Gazette, amend, from time to time, the general instructions for the operation of motor vehicles."
+        }
+      },
+      {
+        "section_number": "50",
+        "section_title": "Taking action against the responsible employee in some cases",
+        "content": {
+          "sub_section_1": "If any accident happens due to the negligence or inefficiency of a government employee in discharging and rendering such duties and services as imposed upon him under this Act... actions may be taken against him under the existing law.",
+          "sub_section_2": "The liability for an accident due to any defect in design, construction or maintenance of any road shall be borne solely or jointly by the construction company or, as the case may be, supervising body or person, and action may be taken under the existing law."
+        }
+      },
+      {
+        "section_number": "51",
+        "section_title": "Caution in transporting flammable substances, etc.",
+        "content": {
+          "sub_section_1": "No explosives or flammable substances shall be transported in motor vehicles except for taking special care and packing in accordance with the existing laws relating to explosives or flammable substances or the rules made thereunder and without such special motor vehicles and at such time as may be prescribed in this behalf."
+        }
+      }
+    ]
+  },
+  {
+    "chapter_number": "IX",
+    "chapter_title": "Accident compensation, treatment and insurance",
+    "sections": [
+      {
+        "section_number": "52",
+        "section_title": "Compensation to the victim or his family",
+        "content": {
+          "sub_section_1": "In the case of injury or damage or death of any person due to the injury suffered from an accident caused by a motor vehicle, the injured person or, as the case may be, the person nominated on behalf of his heirs, may avail such compensation or the cost incurred for the treatment purpose, from the financial assistance fund constituted under section 53 as may be determined by the Board of Trustees. "
+        }
+      },
+      {
+        "section_number": "53",
+        "section_title": "Financial Assistance Fund",
+        "content": {
+          "sub_section_1": "For fulfilling the purpose of section 52, a fund to be called the Financial Assistance Fund shall be constituted for the purpose of providing compensation in favour of the injured person or the person incurring the damage or, as the case may be, the heirs of the deceased. ",
+          "sub_section_2": "The Authority, considering the classification of the motor vehicles, shall collect annual or lump sum contribution against each motor vehicle from the owner or organization of the motor vehicle for financial assistance fund at the rate and method prescribed by rules. ",
+          "sub_section_3": "The owner or organization of the motor vehicle shall be bound to make an annual or lump sum contribution to the Financial Assistance Fund under sub-section (2). ",
+          "sub_section_4": "The Board of Trustees may appoint such number of employees as may be approved by the Government to conduct the activities of the Financial Assistance Fund and the Board of Trustees. ",
+          "sub_section_5": "The conditions of appointment and service of the employees shall be prescribed by regulations approved by the Government. "
+        }
+      },
+      {
+        "section_number": "54",
+        "section_title": "Formation of the Board of Trustees",
+        "content": {
+          "sub_section_1": "For the purpose of operating the Financial Assistance Fund as referred to in section 53, the Government shall form a Board of Trustees consisting of the following members including a Chairman, namely:- (a) the Chairman of the Authority; (b) one representative not below the rank of Joint Secretary from the Roads and Highways Division; (c) one representative not below the rank of Joint Secretary from the Public Security Division; (d) one representative not below the rank of Joint Secretary from the Legislative and Parliamentary Affairs Division; (e) one representative not below the rank of Joint Secretary from the Local Government Division; (f) one representative not below the rank of Superintendent Engineer nominated by the Roads and Highways Department; (g) the DIG of Highway Police; (h) one representative not below the rank of Director nominated by the Directorate of National Consumer Rights Protection; (i) one representative from the Road Transport Owners' Association as nominated by the Government; (j) one representative from the Road Transport Workers' Association or Federation as nominated by the Government; (k) one prominent person nominated by the Government; (l) the secretary of the Board of Trustees appointed by the Government, who shall also be its member secretary. ",
+          "sub_section_2": "The Government may, if necessary, co-opt any person or a representative of an organization as a member of the Board of Trustees. ",
+          "sub_section_3": "The Government may appoint the Chairman of the Authority or any other Government servant as the Chairman of the Board of Trustees. ",
+          "sub_section_4": "The Board of Trustees shall be an autonomous body having perpetual succession and a common seal with power to acquire, hold and transfer property, both movable and immovable, and it may by its own name sue and be sued. "
+        }
+      },
+      {
+        "section_number": "55",
+        "section_title": "Office of the Board of Trustees",
+        "content": {
+          "sub_section_1": "The head office of the Board of Trustees shall be at Dhaka. ",
+          "sub_section_2": "The Board of Trustees may, if necessary, with the prior approval of the Government, establish its subordinate or branch offices at any place in Bangladesh. "
+        }
+      },
+      {
+        "section_number": "56",
+        "section_title": "Functions and powers of the Board of Trustees",
+        "content": {
+          "sub_section_1": "The functions and powers of the Board of Trustees shall be as follows:- (a) to determine and grant the amount of financial assistance to be paid to the injured person or the person who has incurred damage or, as the case may be, to the heirs of the deceased; (b) to supervise the proper management and administration of the money and property of the Financial Assistance Fund and its execution and, to make arrangement for such execution in necessary cases; (c) to grant or approve expenditure related to the management and administration of financial assistance funds: Provided that in approving these expenditures the relevant rules and regulations of the Government shall be followed; (d) to perform and execute such other duties and responsibilities as may be prescribed by rules. ",
+          "sub_section_2": "The Board of Trustees may form one or more committees and determine its terms of reference for the proper execution of the functions referred to in sub-section (1). "
+        }
+      },
+      {
+        "section_number": "57",
+        "section_title": "Constitution of Financial Assistance Fund, accounts and audit, etc.",
+        "content": {
+          "sub_section_1": "The Financial Assistance Fund shall be constituted from the following sources, namely:- (a) grants made by the Government; (b) contributions collected from the owner of the motor vehicles; (c) the amount of fines collected under this Act; (d) grants made by the owners' association; (e) grants made by motor vehicle workers' association or federation; and (f) money received from any other lawful source. ",
+          "sub_section_2": "The funds shall be deposited to a Scheduled Bank. ",
+          "sub_section_3": "The Board of Trustees shall manage and maintain its fund in the manner prescribed by rules: Provided that the funds may be managed in accordance with orders or directions issued by the Government until rules are made. ",
+          "sub_section_4": "All expenses of the Board of Trustees shall be met from the fund. ",
+          "sub_section_5": "At the end of each financial year, the Board of Trustees shall, subject to the directions (if any) of the Government for this purpose, deposit the surplus money of the Financial Assistance Fund to the public Account. ",
+          "sub_section_6": "The Board of Trustees shall properly maintain the accounts of the fund and prepare the annual statement of accounts. ",
+          "sub_section_7": "The Comptroller and Auditor General of Bangladesh, hereinafter referred to as the 'Auditor General', shall audit the accounts of the Financial Assistance Fund every year and submit a copy of the audit report to the Government and the Board of Trustees. ",
+          "sub_section_8": "In addition to the audit referred to in sub-section (7), the funds may be audited by a 'chartered accountant' as defined in Article 2 (1) (b) of the Bangladesh Chartered Accountants Order, 1973 (P. O. No. 2 of 1973) and for this purpose the Board of Trustees may appoint one or more Chartered Accountants. ",
+          "sub_section_9": "The Chartered Accountant appointed under sub-section (8) shall receive such remuneration as may be determined by the Government. ",
+          "sub_section_10": "For the purpose of auditing the accounts in accordance with the provisions of sub-section (7) or (8), the Auditor-General or any person authorized by him or, as the case may be, the chartered accountant, shall have access to all records of the Board of Trustees... and may examine any member of the Board of Trustees or any employee concerned thereto. "
+        }
+      },
+      {
+        "section_number": "58",
+        "section_title": "Meeting of the Board of Trustees",
+        "content": {
+          "sub_section_1": "For fulfilling the purpose of this Chapter, the meetings, management and other related matters of the Board of Trustees shall be prescribed by rules. "
+        }
+      },
+      {
+        "section_number": "59",
+        "section_title": "Application for financial assistance",
+        "content": {
+          "sub_section_1": "For availing the assistance from the Financial Assistance Fund, the injured or the person who has incurred damage or, as the case may be, the heir or legal representative of the deceased may apply to the Chairman of the Board of Trustees claiming for compensation in the prescribed manner... ",
+          "sub_section_2": "Upon receipt of the application under sub-section (1) or on receiving information in any other way, the Chairman may, in his own discretion, immediately arrange for the payment of necessary compensation from the Financial Assistance Fund... which shall have to be approved in the next Board meeting. ",
+          "sub_section_3": "The Board of Trustees shall make arrangements for a proper inquiry into the claim for compensation and shall make arrangements for the payment of equitable compensation from the Financial Assistance Fund in favour of the aggrieved person. ",
+          "sub_section_4": "In case it appears to the injured or aggrieved person or to the heir or legal representative of the deceased that the compensation granted by the Board of Trustees under sub-section (3) is insufficient, he- (a) may, in disagreement with such decision of the Board of Trustees, apply to the Board of Trustees for review... and (b) may, if he does not agree with the decision of the review of the Board of Trustees, appeal to the Government... ",
+          "sub_section_5": "The criteria for determining the amount of compensation, procedure, time limit for payment of compensation, granting of application for compensation, investigation of accident and loss for the purpose of settling the claim and other incidental matters shall be prescribed by rules. "
+        }
+      },
+      {
+        "section_number": "60",
+        "section_title": "Insurance of passengers or the motor vehicle",
+        "content": {
+          "sub_section_1": "The owner of or the organization which is the owner, of a motor vehicle may, if so desires, take insurance policies on the lives and property of such number of passengers for which the motor vehicle is specified for carriage. ",
+          "sub_section_2": "The owner of the motor vehicle or the organization which is the owner of a motor vehicle shall duly insure the motor vehicle operated under it, and the loss or damage to the motor vehicle shall be covered by such insurance and be entitled to appropriate compensation by the insurer. ",
+          "sub_section_3": "No compensation shall be claimed from the Financial Assistance Fund constituted under section 53 for the motor vehicle if it falls in an accident or is affected or damaged. ",
+          "sub_section_4": "The terms of insurance, the limits of liability of the insurance, the insolvency of insurance, the payment of insurance claims, the settlement of disputes, the validity of insurance certificates and the transfer thereof, and other matters ancillary thereto shall be prescribed by rules. "
+        }
+      },
+      {
+        "section_number": "61",
+        "section_title": "Review, appeal and arbitration",
+        "content": {
+          "sub_section_1": "Notwithstanding anything contained contrary in any other provisions of this Act, if a person is aggrieved by a decision made under this chapter, he may, within 30 (thirty) days of receipt of the decision and in the manner prescribed by rules, apply to the Board of Trustees for review of that decision. ",
+          "sub_section_2": "If any person is not satisfied with the decision of review under sub-section (1), he may appeal to the Government in the manner prescribed by rules, within 30 (thirty) days of the receipt of such decision. ",
+          "sub_section_3": "If any person is not satisfied with the decision, as the case may be, of review or appeal under sub-section (1) or (2), he may apply to the Arbitrator appointed in the manner prescribed by rules and the award thereof given by the Arbitrator shall be finally binding on the Board of Trustees and such award shall be enforceable as a decree of a the civil court. ",
+          "sub_section_4": "No suit relating to the claim for compensation under this Act shall be entertained by a civil court for trial, and no civil court shall impose injunction on any action or proceeding taken or done by the Arbitrator for the compensation claim. ",
+          "sub_section_5": "The appointment of Arbitrator, procedure of arbitration and other matters ancillary thereto shall be prescribed by rules. "
+        }
+      },
+      {
+        "section_number": "62",
+        "section_title": "Treatment of a person injured in a road accident",
+        "content": {
+          "sub_section_1": "In the event of a road accident, the concerned motor vehicle driver, conductor or their representative shall immediately notify the nearest police station and, as the case may be, the fire service, medical service centre or hospital and send the injured person to the nearest medical service centre or hospital as soon as possible and take necessary measure for treatment. ",
+          "sub_section_2": "The Bangladesh Police shall introduce a nationwide toll free telephone number through which the driver, conductor, owner, organization or operator of a motor vehicle involved in a road accident or their representative... can make call to the relevant number immediately after the accident and ask for immediate help for emergency rescue, treatment etc. "
+        }
+      }
+    ]
+  },
+  {
+    "chapter_number": "X",
+    "chapter_title": "Motor vehicle driving training school, motor vehicle repair factory, dumping yard, etc.",
+    "sections": [
+      {
+        "section_number": "63",
+        "section_title": "Motor vehicle driving training school",
+        "content": {
+          "sub_section_1": "No person or organization shall establish or operate a motor vehicle driving training school without the license issued by the Authority. ",
+          "sub_section_2": "Notwithstanding anything contained in sub-section (1), if any person or organization had been running a motor vehicle driving training school immediately before the commencement of this Act, such person or organization shall apply for a license in the prescribed manner to the Authority within 6 (six) months from the date of commencement of this Act in order to run such motor vehicle driving training school in accordance with the provisions of this Act. ",
+          "sub_section_3": "If a person or organization is imposed fine under this section for establishing or operating a motor vehicle driving training school without a license, such person or organization may apply for a license in the prescribed manner to the Authority... subject to the fulfilment of the prescribed conditions and payment of the imposed fine. ",
+          "sub_section_4": "Granting a license to the instructor of the motor vehicle driving training school, curriculum, training methods and other related matters shall be prescribed by rules. "
+        }
+      },
+      {
+        "section_number": "64",
+        "section_title": "Motor vehicle repair factory",
+        "content": {
+          "sub_section_1": "No person or organization other than a government institution shall establish or operate a motor vehicle repair factory without obtaining a license from the Authority subject to following the procedure and payment of fees prescribed by rules. ",
+          "sub_section_2": "Notwithstanding anything contained in sub-section (1), if any person or organization had been running a motor vehicle repair factory immediately before the commencement of this Act, such person or organization shall apply for a license in the prescribed manner to the Authority within 6 (six) months... ",
+          "sub_section_3": "If a person or organization is imposed fine under this section for establishing or operating a motor vehicle repair factory without a license, such person or organization may apply for a license in the prescribed manner to the Authority... subject to the fulfilment of the prescribed conditions and payment of the imposed fine. ",
+          "sub_section_4": "Granting a license to establish or operate the motor vehicle repair factory and other ancillary matters shall be prescribed by rules. ",
+          "sub_section_5": "The Authority, or any employee authorized by the Authority, may control the activities of the licensed factory accordingly by specifying the class of the factory, the place of the factory and the scope of work of the factory in the license issued under sub-section (1). "
+        }
+      },
+      {
+        "section_number": "65",
+        "section_title": "Motor vehicle dumping yard",
+        "content": {
+          "sub_section_1": "The Authority or the police force may set up a dumping yard at a suitable place to keep the seized motor vehicles, and such dumping yard shall be under the management of the concerned police station or traffic department or the Authority. ",
+          "sub_section_2": "The concerned police station or the traffic department in charge of yard management shall dispose of the seized motor vehicle as per the order given by the employee dispatched it to the dumping yard or, as the case may be, as per the order of the court. "
+        }
+      }
+    ]
+  },
+  {
+    "chapter_number": "XI",
+    "chapter_title": "Offence, Trial and Punishment",
+    "sections": [
+      {
+        "section_number": "66",
+        "section_title": "Penalty for violating the provisions of sections 4 and 5 relating to prohibition on driving motor vehicles and public transport without driving license",
+        "content": {
+          "sub_section_1": "If any person violates the provisions of sections 4 and 5, the violation shall be an offence, and for that, he shall be punished with imprisonment for a term which may extend to 6 (six) months, or with fine which may extend to 25 (twenty five) thousand taka, or with both."
+        }
+      },
+      {
+        "section_number": "67",
+        "section_title": "Penalty for violation of the provisions of section 6 relating to the transfer of driving license",
+        "content": {
+          "sub_section_1": "If any person violates the provisions of sub-section (5) of section 6, the violation shall be an offense, and for that, he shall be punished with imprisonment for a term which may extend to 1 (one) month, or with fine which may extend to 5 (five) thousand taka, or with both."
+        }
+      },
+      {
+        "section_number": "68",
+        "section_title": "Penalty for violation of any provision of this Act, rules or regulations or conditions of the license under section 9 by a foreign national",
+        "content": {
+          "sub_section_1": "If any foreign national violates the provisions of sub-section (3) of section 9, the violation shall be an offence, and for that, he shall be punished with fine not exceeding 30 (thirty) thousand taka."
+        }
+      },
+      {
+        "section_number": "69",
+        "section_title": "Penalty for violating the provisions of section 10 relating to the prohibition on making, issuing or renewing a driving license without the authority",
+        "content": {
+          "sub_section_1": "If any person violates the provisions of section 10, the violation shall be an offence, and for that, he shall be punished with imprisonment for a term which may extend to 2 (two) years but not less than 6 (six) months, or with fine which may extend to 5 (five) lakh taka but not less than 1 (one) lakh Taka, or with both."
+        }
+      },
+      {
+        "section_number": "70",
+        "section_title": "Penalty for violating the provisions of section 12 relating to the prohibitions on Driving a Motor Vehicle by the concerned person if the driving license is suspended, withdrawn or cancelled",
+        "content": {
+          "sub_section_1": "If any person violates the provisions of sub-section (3) of section 12, the violation shall be an offence, and for that, he shall be punished with imprisonment for a term may extend to 3 (three) months, or with fine which may extend to 25 (twenty five) thousand taka, or with both."
+        }
+      },
+      {
+        "section_number": "71",
+        "section_title": "Penalty for violating the provisions of section 14 relating to discharging duty as A conductor in any public transport without conductor license",
+        "content": {
+          "sub_section_1": "If any person violates the provisions of section 14, the violation shall be an offence, and for that, he shall be punished with imprisonment for a term which may extend to 1 (one) month, or with fine which may extend to 5 (five) thousand taka."
+        }
+      },
+      {
+        "section_number": "72",
+        "section_title": "Penalty for violating the provisions of section 16 relating to driving motor vehicles without motor vehicle registration",
+        "content": {
+          "sub_section_1": "If any person violates the provisions of section 16, the violation shall be an offence, and for that, he shall be punished with imprisonment for a term which may extend to 6 (six) months, or with fine which may extend to 50 (fifty) thousand taka, or with both."
+        }
+      },
+      {
+        "section_number": "73",
+        "section_title": "Penalty for violating the provisions of section 17 relating to prohibition on the use and display of fake registration numbers",
+        "content": {
+          "sub_section_1": "If any person violates the provisions of section 17, the violation shall be an offence, and for that, he shall be punished with imprisonment for a term which may extend to 2 (two) years but not less than 6 (six) months, or with fine which may extend to 5 (five) lakh taka, but not less than 1 (one) lakh taka, or with both."
+        }
+      },
+      {
+        "section_number": "74",
+        "section_title": "Penalty for violation of section 21 relating to registration by the transferee due to the change or transfer of ownership of the motor vehicle",
+        "content": {
+          "sub_section_1": "If any transferee violates the provisions of section 21, the violation shall be an offence, and for that, he shall be punished with imprisonment for a term which may extend to 1 (one) month, or with fine which may extend to 5 (five) thousand taka, or with both."
+        }
+      },
+      {
+        "section_number": "75",
+        "section_title": "Penalty for violating the provisions of section 25 relating to driving a motor vehicle without a fitness certificate or using an expired fitness certificate or a motor vehicle, the economic life of which has expired or is unsuitable for fitness, risky",
+        "content": {
+          "sub_section_1": "If any person violates the provisions of section 25, the violation shall be an offence, and for that, he shall be punished with imprisonment for a term which may extend to 6 (six) months, or with fine which may extend to 25 (twenty five) thousand taka, or with both."
+        }
+      },
+      {
+        "section_number": "76",
+        "section_title": "Penalty for violating the provisions of section 26 relating to driving motor vehicles without tax-token or with expired tax-token",
+        "content": {
+          "sub_section_1": "If any person violates the provisions of section 26, such violation shall be an offence, and for that, he shall be punished with fine which may extend to 10 (ten) thousand taka."
+        }
+      },
+      {
+        "section_number": "77",
+        "section_title": "Penalty for violating the provisions of section 28 relating to the use of a transport vehicle in public place without route permit",
+        "content": {
+          "sub_section_1": "If any person violates the provisions of sub-section (1) of section 28, the violation shall be an offence, and for that, he shall be punished with imprisonment for a term which may extend to 3 (three) months, or with fine which may extend to 20 (twenty) thousand taka, or with both."
+        }
+      },
+      {
+        "section_number": "78",
+        "section_title": "Penalty for violating the provisions of section 29 relating to the entry of foreign nationals in Bangladesh without obtaining a route permit of his own country for the motor vehicle or transport vehicle",
+        "content": {
+          "sub_section_1": "If a foreign national violates the provisions of section 29, the violation shall be an offence, and for that, he shall be punished with fine which may extend to 30 (thirty) thousand taka."
+        }
+      },
+      {
+        "section_number": "79",
+        "section_title": "Penalty for violating the provisions of section 31 relating to commercial use of motor vehicles",
+        "content": {
+          "sub_section_1": "If any person violates the provisions of section 31, the violation shall be an offence, and for that, he shall be punished with imprisonment for a term which may extend to 3 (three) months, or with fine which may extend to 25 (twenty five) thousand taka, or with both, and in case of a driver of the motor vehicle, 1 (one) demerit point shall be deducted in addition thereto."
+        }
+      },
+      {
+        "section_number": "80",
+        "section_title": "Penalty for violating the provisions of section 34 relating to display of fare chart on public transport and claim or collection of fare in excess to the prescribed fare",
+        "content": {
+          "sub_section_1": "If any person violates the provisions of sub-sections (3) and (4) of section 34, the violation shall be an offence, and for that he shall be punished with imprisonment for a term which may extend to 1 (one) month, or with fine which may extend to 10 (ten) thousand taka, or with both and in case of a driver of the motor vehicle, 1 (one) demerit point shall be deducted in addition thereto."
+        }
+      },
+      {
+        "section_number": "81",
+        "section_title": "Penalty for violating the provisions of section 35 relating to illegal alteration of contract carriage meter or claiming or collecting excess rent",
+        "content": {
+          "sub_section_1": "If any person violates the provisions of section 35, the violation shall be an offence, and for that, he shall be punished with imprisonment for a term which may extend to 6 (six) months, or with fine which may extend to 50 (fifty) thousand taka, or with both, and in case of a driver of the motor vehicle, 1 (one) demerit point shall be deducted in addition thereto."
+        }
+      },
+      {
+        "section_number": "82",
+        "section_title": "Penalty for violating the provisions of section 37 relating to immediate removal of illegal establishments along the highways",
+        "content": {
+          "sub_section_1": "If any person violates the provisions of sub-section (1) of section 37, the violation shall be an offence, and for that, he shall be punished with imprisonment for a term which may extend to 2 (two) years, or in case of a permanent establishment, with fine which may extend to 5 (five) lakh taka and in case of temporary establishment with fine which may extend to 50 (fifty) thousand taka, or with both."
+        }
+      },
+      {
+        "section_number": "83",
+        "section_title": "Penalty for violating the provisions of Section 38 relating to the prohibition of extortion",
+        "content": {
+          "sub_section_1": "If any person violates the provisions of sub-section (3) of section 38, the offence shall be deemed to be a punishable offence relating to extortion under Chapter XVII of the Penal Code, 1860 (Act No. XLV of 1860)."
+        }
+      },
+      {
+        "section_number": "84",
+        "section_title": "Penalty for violating the provisions of section 40 relating to disregard of technical specifications of any motor vehicle prescribed by the Authority",
+        "content": {
+          "sub_section_1": "If any person violates the provisions of section 40, the violation shall be an offence, and for that, he shall be punished with imprisonment for a term may extend to 3 (three) years but not less than 1 (one) year, or with fine which may extend to 3 (three) lakh taka, or with both."
+        }
+      },
+      {
+        "section_number": "85",
+        "section_title": "Penalty for violating the provisions of section 42 relating to compliance with the use of traffic signs and signals",
+        "content": {
+          "sub_section_1": "If any person violates the provisions of section 42, the violation shall be an offence, and for that, he shall be punished with imprisonment which may extend to 1 (one) month, or with fine which may extend to 10 (ten) thousand taka or with both, and in case of a driver of the motor vehicle, 1 (one) demerit point shall be deducted in addition thereto."
+        }
+      },
+      {
+        "section_number": "86",
+        "section_title": "Penalty for violating the provisions of section 43 relating to driving a motor vehicle with excess weight",
+        "content": {
+          "sub_section_1": "If any person violates the provisions of section 43, the violation shall be an offence, and for that he shall be punished with imprisonment for a term which may extend to 1 (one) year, or with fine which may extend to 1 (one) lakh taka, or with both, and in case of a driver of the motor vehicle, 2 (two) demerit points shall be deducted in addition thereto."
+        }
+      },
+      {
+        "section_number": "87",
+        "section_title": "Penalty for violating the provisions of section 44 relating to speed limit control of motor vehicles",
+        "content": {
+          "sub_section_1": "If any person violates the provisions of section 44, the violation shall be an offence, and for that, he shall be punished with imprisonment for a term which may extend to 3 (three) months, or with fine which may extend to 10 (ten) thousand taka, or with both, and, in the case of the driver of the motor vehicle, 1 (one) demerit point shall be deducted in addition thereto."
+        }
+      },
+      {
+        "section_number": "88",
+        "section_title": "Penalties for violating the provisions of section 45 relating to the production of any sound in excess of the prescribed limit or blowing the horn or the installation of any instrument, parts of instrument or horn in a motor vehicle",
+        "content": {
+          "sub_section_1": "If any person violates the provisions of sub-sections (2), (3) and (4) of section 45, the violation shall be an offence, and for that, he shall be punished with imprisonment for a term which may extend to 3 (three) months or with fine which may extend to 10 (ten) thousand taka, or with both, and in the case of the driver of the motor vehicle, 1 (one) demerit point shall be deducted in addition thereto."
+        }
+      },
+      {
+        "section_number": "89",
+        "section_title": "Penalty for violating the provisions of section 46 relating to the restrictions on driving motor vehicles which pollute the environment, and is hazardous etc.",
+        "content": {
+          "sub_section_1": "If any person violates the provisions of sub-sections (2) and (3) of section 46, the violation shall be an offence, and for that, he shall be punished with imprisonment for a term which may extend to 3 (three) months or with fine not exceeding 25 (twenty five) thousand taka, or with both, and in the case of a driver of the motor vehicle, 1 (one) demerit point shall be deducted in addition thereto.",
+          "sub_section_2": "If any person violates the provisions of sub-section (4) of section 46, the violation shall be an offence, and for that, he shall be punished with imprisonment for a term which may extend to 3 (three) months, or with fine not exceeding 20 (twenty) thousand taka, or with both, and in the case of a driver of the motor vehicle, 1 (one) demerit point shall be deducted in addition thereto."
+        }
+      },
+      {
+        "section_number": "90",
+        "section_title": "Penalty for violating the provisions of section 47 relating to parking of motor vehicles and the use of designated place for picking up and dropping off the passengers or goods",
+        "content": {
+          "sub_section_1": "If any person violates the provisions of section 47, the violation shall be an offence, and for that, he shall be punished with fine which may extend to 5 (five) thousand taka, and in the case of a driver of the motor vehicle, 1 (one) demerit point shall be deducted in addition thereto."
+        }
+      },
+      {
+        "section_number": "91",
+        "section_title": "Penalty for violating the provisions of section 48 relating to the use of highways in the case of entrance of high speed motor vehicles",
+        "content": {
+          "sub_section_1": "If any person violates the provisions of section 48, the violation shall be an offence, and for that, he shall be punished with imprisonment for a term which may extend to 1 (one) month, or with fine not exceeding 5(five) thousand taka, or with both, and in the case of a driver of the motor vehicle, 1 (one) demerit point shall be deducted in addition thereto."
+        }
+      },
+      {
+        "section_number": "92",
+        "section_title": "Penalty for violating the provisions of section 49 relating to the general instructions of motor vehicles",
+        "content": {
+          "sub_section_1": "If any person violates any provision of the first part of the general instructions referred to in sub-section (1) of section 49, the violation shall be an offence, and for that, he shall be punished with imprisonment for a term which may extend to 3 (three) months, or with fine not exceeding 10 (ten) thousand taka, or with both, and in the case of a driver of the motor vehicle, 1 (one) demerit point shall be deducted in addition thereto.",
+          "sub_section_2": "If any person violates any provision of the second part of the general instructions referred to in sub-section (1) of section 49, the violation shall be an offence, and for that, he shall be punished with imprisonment for a term which may extend to 1 (one) month, or with fine which may extend to 5 (five) thousand taka, or with both, and in the case of a driver of the motor vehicle, 1 (one) demerit point shall be deducted in addition thereto."
+        }
+      },
+      {
+        "section_number": "93",
+        "section_title": "Penalty for violating the provisions of section 51 relating to the transportation of explosives or flammable substances in motor vehicles",
+        "content": {
+          "sub_section_1": "If any person violates the provisions of section 51, the violation shall be an offence, and for that, he shall be punished with imprisonment for a term which may extend to 3 (three) months, or with fine which may extend to 25 (twenty five) thousand taka, or with both."
+        }
+      },
+      {
+        "section_number": "94",
+        "section_title": "Penalty for violating the provisions of section 53 relating to the obligation to pay annual or lump sum contributions to the financial assistance fund by the motor vehicle's owner or organization",
+        "content": {
+          "sub_section_1": "If any person violates the provisions of sub-section (3) of section 53, the violation shall be an offence, and for that, the Authority may cancel his public transport license and route permit or, as the case may be, refuse registration, provide a fitness certificate or renew it, and in addition to that, may also impose a fine at the prescribed rate."
+        }
+      },
+      {
+        "section_number": "95",
+        "section_title": "Penalty for violating the provisions of section 62 relating to the medical treatment of a person injured in a road accident",
+        "content": {
+          "sub_section_1": "If any person violates the provisions of sub-section (1) of section 62, the violation shall be an offence, and for that, he shall be punished with imprisonment for a term which may extend to 1 (one) month, or fine which may extend to 20 (twenty) thousand taka, or with both and in the case of a driver of the motor vehicle, 1 (one) demerit point shall be deducted to addition thereto."
+        }
+      },
+      {
+        "section_number": "96",
+        "section_title": "Penalty for violation of the provisions of section 63 relating to the establishment or operation of motor vehicle driving training schools",
+        "content": {
+          "sub_section_1": "If any person violates the provisions of section 63, the violation shall be an offence, and for that, he shall be punished with fine which may extend to 1 (one) lakh taka, and the Authority may close the said driving training school with immediate effect."
+        }
+      },
+      {
+        "section_number": "97",
+        "section_title": "Penalty for violation of the provisions of section 64 relating to the establishment or operation of a motor vehicle repair factory",
+        "content": {
+          "sub_section_1": "If any person violates the provisions of section 64, the violation shall be an offense, and for that, he shall be punished with fine which may extend to 1 (one) lakh taka, but not less than 25 (twenty-five) thousand taka and the Authority may immediately seal and close the motor vehicle repair factory."
+        }
+      },
+      {
+        "section_number": "98",
+        "section_title": "Penalty for overloading or reckless driving causing loss of life and property",
+        "content": {
+          "sub_section_1": "Driving a motor vehicle at a speed exceeding the legal limit, or in a manner which is reckless, or dangerous overtaking or overloading, or driving a motor vehicle without any control, causing any accident resulting in loss of life or property, shall be an offence and the offender shall be punishable with imprisonment for a term which may extend to 3 (three) years, or with fine which may extend to 3 (three) lakh taka, or with both, and the court may order the whole or part of the fine to be paid to the victim."
+        }
+      },
+      {
+        "section_number": "99",
+        "section_title": "Penalty for abetting, instigating and conspiring in committing offence",
+        "content": {
+          "sub_section_1": "If any person aids or abets, instigates or conspires to commit an offence under this Act and as a result of which the offence is committed, the person abetting, instigating or conspiring for committing the offence shall be punished with the same punishment as provided for the offence."
+        }
+      },
+      {
+        "section_number": "100",
+        "section_title": "Penalty for recurrence of crime",
+        "content": {
+          "sub_section_1": "If any person suffered punishment for any offence referred to in this Act repeats the same offence, the offender shall be punished with double of the maximum penalty prescribed for such offence, and it shall not, in no way, be lesser than double of the amount of penalty imposed in the earlier offence."
+        }
+      },
+      {
+        "section_number": "101",
+        "section_title": "Penalty for violation of the provisions of sub-section (2) of section 116 relating to the disobedience of the given instructions and creating an obstruction to inspection",
+        "content": {
+          "sub_section_1": "If any person violates the provisions of sub-section (2) of section 116, the violation shall be an offence, and for that, he shall be punished with imprisonment for a term which may extend to 1 (one) month, or with fine which may extend to 10 (ten) thousand taka, or with both."
+        }
+      },
+      {
+        "section_number": "102",
+        "section_title": "Penalty for violation of the provisions of section 118 relating to the observance of orders and the obligation to provide information",
+        "content": {
+          "sub_section_1": "If any person violates the provisions of section 118, the violation shall be an offence, and for that, he shall be punished with imprisonment for a term which may extend to 1 (one) month, or with fine which may extend to 10 (ten) thousand taka, or with both."
+        }
+      },
+      {
+        "section_number": "103",
+        "section_title": "Penalty for violating the provisions of section 119 relating to aggressive behaviour and control of public outrage",
+        "content": {
+          "sub_section_1": "If any person violates the provisions of section 119, the violation shall be an offence, and for that, he shall be punished with imprisonment which may extend to than 1 (one) month, or with fine which may extend to 10 (ten) thousand taka, or with both."
+        }
+      },
+      {
+        "section_number": "104",
+        "section_title": "Penalty for violation of orders and directions issued by the Government under the provisions of section 124",
+        "content": {
+          "sub_section_1": "If any person violates any order or directions issued by the Government under section 124, or the directions given in the policy formulated by the Government, such violation shall be an offence, and for that, he shall be punished with imprisonment for a term which may extend to 3 (three) months, or with fine which may extend to 20 (twenty) thousand taka, or with both."
+        }
+      },
+      {
+        "section_number": "105",
+        "section_title": "Accident related offences",
+        "content": {
+          "sub_section_1": "Notwithstanding anything contained in this Act, if a person is grievously injured or killed in an accident involving the driving of a motor vehicle, offences relating to that accident shall be deemed to be offences under the relevant provisions of the Penal Code, 1860 (Act No. XLV of 1860): Provided that notwithstanding anything contained in section 304B of the Penal Code, 1860 (Act No. XLV of 1860), if any person is grievously injured or killed caused by a person's reckless or negligent driving of a motor vehicle causing an accident, the said person causing the accident shall be punished with imprisonment of either description for a term which may extend to five years, or with fine which may extend to 5 (five) lakh taka, or with both."
+        }
+      },
+      {
+        "section_number": "106",
+        "section_title": "Offence committed by a company",
+        "content": {
+          "sub_section_1": "If any offence under this Act is committed by a company, the owner, director, executive officer, manager, secretary, any other officer or employee of the company having direct connection with the offence shall be deemed to have committed the offense, unless he can prove that the offence was committed without his knowledge and he has tried to prevent it with due diligence.",
+          "sub_section_2": "If the company referred to in sub-section (1) is a legal entity, in addition to charging and convicting the person referred to in that sub-section, the company may also be charged and convicted separately in the same proceedings, and in that case, only fine shall be imposed as punishment in accordance with the relevant provisions.",
+          "explanation": "For the purposes of this section, \"Company\" includes, any company or organization, institution, partnership business, society or association consisting of more than one person, whether incorporated or registered or not and government or autonomous body or any company or organization fully or partially owned by the government."
+        }
+      }
+    ]
+  },
+  {
+    "chapter_number": "XII",
+    "chapter_title": "Review and Appeal",
+    "sections": [
+      {
+        "section_number": "107",
+        "section_title": "Review and Appeal",
+        "content": {
+          "sub_section_1": "Except for any matter under Chapter IX, if any person is aggrieved by any decision of the Authority, he may apply to the Authority for review of the decision within a period of not more than 30 (thirty) days upon receiving the order.",
+          "sub_section_2": "If any person is not satisfied with the decision of the Authority given in review under sub-section (1), he may appeal to the Government within a period of not more than 30 (thirty) days of the receipt of the decision.",
+          "sub_section_3": "The procedures of making application for review, lodging appeal and their disposals shall be prescribed by rules."
+        }
+      }
+    ]
+  },
+  {
+    "chapter_number": "XIII",
+    "chapter_title": "Working Procedure",
+    "sections": [
+      {
+        "section_number": "108",
+        "section_title": "Special procedures relating to the trial of certain offences",
+        "content": {
+          "sub_section_1": "Notwithstanding anything contained in the Code of Criminal Procedure, 1898 (Act No. V of 1898), charges for the offences committed under sections 43, 66, 72, 75, 84, 87, 89, 92 and 95 shall be framed by a police officer not below the rank of a Sub-Inspector or a Sergeant or, as the case may be, by any motor vehicle inspector or by any other person authorized in this behalf by the Authority...",
+          "sub_section_2": "Notwithstanding anything contained in sub-section (1), any authorized police officer or any employee authorized by the Authority in this behalf may impose a reasonable amount of fine in accordance with the relevant section on the basis of the complaint made in the prescribed manner...",
+          "sub_section_3": "If the fine imposed under sub-section (2) remains unpaid, upon receipt of the report, the superintendent of police with regional jurisdiction in the area where the offence has been committed... a complaint shall be filed in the appropriate court against the offender.",
+          "sub_section_4": "If a person refuses to accept a copy of the complaint brought against him under this section or tries to evade it... the officer in charge under this section may arrest him without a warrant..."
+        }
+      },
+      {
+        "section_number": "109",
+        "section_title": "Power to stop the motor vehicle and check the required documents of the motor vehicle",
+        "content": {
+          "sub_section_1": "Any driver of the motor vehicle shall be bound to stop the motor vehicle and show the required documents of the motor vehicle as per the demand of any police officer not below the rank of a Sub-Inspector or a Sergeant or, as the case may be, a motor vehicle inspector or any other person authorized by the Authority in this behalf."
+        }
+      },
+      {
+        "section_number": "110",
+        "section_title": "Power to arrest without warrant",
+        "content": {
+          "sub_section_1": "If any person commits an offence punishable under sections 72, 73, 75, 77, 79, 84, 86, 89, 92 (1), 98 or 105 before a uniformed police officer, the officer may arrest the person without a warrant.",
+          "sub_section_2": "In the event of an emerging situation, if a police officer arrests the driver of a motor vehicle without a warrant, he shall take appropriate steps or measures for the safe custody of the motor vehicle or take the motor vehicle to the nearest police station.",
+          "sub_section_3": "The police officer discharging the duty under sub-sections (1) and (2) shall, as soon as possible, but in no way not more than 24 hours, inform the owner of the motor vehicle concerned as to where the motor vehicle has been transferred and where the driver has been taken."
+        }
+      },
+      {
+        "section_number": "111",
+        "section_title": "Power to seize documents of motor vehicle by police officer",
+        "content": {
+          "sub_section_1": "If a police officer, not below the rank of a Sub-Inspector or Sergeant, or any motor vehicle inspector or any other person authorized by the Authority in this behalf has reasonable ground to believe that, the identification mark or license or permit, registration certificate, fitness certificate, insurance certificate, or any other document of the motor vehicle exhibited by the driver... is fake in the sense provided in section 464 of the Penal Code, 1860... then, he may seize the documents or mark...",
+          "sub_section_2": "If there is reasonable ground to believe... that, the driver or conductor, if any, accused under this Act, may flee or evade the summons if issued, then he shall seize the license of the driver or conductor and send it to the concerned court...",
+          "sub_section_3": "Unless otherwise ordered by the court, the police officer or any motor vehicle inspector... shall issue a temporary acknowledgement receipt to the person surrendering the license..."
+        }
+      },
+      {
+        "section_number": "112",
+        "section_title": "Consequences of driving a motor vehicle without registration or fitness certificate or route permit",
+        "content": {
+          "sub_section_1": "If a police officer, not below the rank of a Sub-Inspector or a Sergeant... has reasonable ground to believe that, a particular motor vehicle is being used without complying with the provisions relating to registration under section 16 or the provisions relating to fitness as per section 25 or the route permit as per section 28, then he may seize the motor vehicle and take it into temporary custody.",
+          "sub_section_2": "If a police officer... has reasonable ground to believe that, a motor vehicle is being used without complying with the provisions relating to fitness as per section 25 or the route permit as per section 28, then he shall seize the registration certificate and issue an acknowledgement receipt thereof."
+        }
+      },
+      {
+        "section_number": "113",
+        "section_title": "Power to impose fines on a person who commits certain types of offence on the spot",
+        "content": {
+          "sub_section_1": "Notwithstanding anything contained contrary in this Act or any other law... if any person in any area mentioned in the notification issued by the Authority, commits any offence under sections 43, 66, 72, 75, 84, 87, 89, 92 and 95, in front of a police officer not below the rank of a Sub-Inspector or a Sergeant... then the officer or the person in power may impose a fine on him on the spot.",
+          "sub_section_2": "The employee imposing fine under sub-section (1) shall record in the prescribed form the type of offence and the amount of the fine imposed... and the accused person shall pay the fine in the prescribed manner and receive the acknowledgment slip from the said employee.",
+          "sub_section_3": "If the accused person refuses to accept a copy of the complaint, or if the fine imposed under sub-section (2) is not paid, the employee discharging duties under sub-section (1) shall arrange for sending the motor vehicle used in committing the offence to the officer-in-charge of the nearest police station..."
+        }
+      },
+      {
+        "section_number": "114",
+        "section_title": "Investigation of offence, trial etc.",
+        "content": {
+          "sub_section_1": "The provisions of the Code of Criminal Procedure, 1898 (Act No. V of 1898) shall apply to the investigation, trial, appeal, etc. of offences under this Act.",
+          "sub_section_2": "Offences under this Act may be tried by an Executive Magistrate after including the offences in the Schedule to the Mobile Courts Act, 2009 (Act No. 59 of 2009)."
+        }
+      },
+      {
+        "section_number": "115",
+        "section_title": "Seizure and disposal of motor vehicles",
+        "content": {
+          "sub_section_1": "In the case of violation of any provision of this Act, an employee or any officer authorized by the Authority or Sub-Inspector or Sergeant (TI) of Police may seize any motor vehicle and may take action in accordance with the provisions of this Act.",
+          "sub_section_2": "In the case of violation of any provision of this Act, an Executive Magistrate or an officer of the rank of Inspector of Police or Sergeant (TI) may send a motor vehicle to the dumping yard.",
+          "sub_section_3": "If a motor vehicle is sent to a dumping yard under this Act, the motor vehicle owner, may within 2 (two) months apply to, in the case of a mobile court, to the concerned court and, in other cases, to the concerned Superintendent of Police or Deputy Commissioner of Police... and the court or the concerned employee shall after reviewing the documents and hearing, issue a disposal order.",
+          "sub_section_4": "If the owner of the motor vehicle which is sent to the dumping yard does not apply for the release of the motor vehicle from the dumping yard within the period specified in sub-section (3), the motor vehicle may be given to a government agency or service organization or be sold at auction by the authority..."
+        }
+      },
+      {
+        "section_number": "116",
+        "section_title": "Power to inspect",
+        "content": {
+          "sub_section_1": "The Authority or any employee or motor vehicle inspector authorized by it may inspect any motor vehicle or organization operating the motor vehicles or establishments or area relating thereto and give any directions, in accordance with the provisions of this Act or rules made thereunder.",
+          "sub_section_2": "No motor vehicle owner or operator shall impede an inspection under sub-section (1) and if any direction is issued under that sub-section, the owner or organization operating the motor vehicles shall be bound to oblige such directions."
+        }
+      },
+      {
+        "section_number": "117",
+        "section_title": "Offences to be cognizable, bailable and compoundable",
+        "content": {
+          "sub_section_1": "Unless anything contrary is contained in the Code of Criminal Procedure, 1898 (Act V of 1898),- (a) all offences committed under this Act or rules made thereunder shall be cognizable if a police officer... reports to the court of competent jurisdiction; (b) all offences except the offences under section 84, 98 and 105, committed under this Act, shall be bailable; and (c) the offences committed under sections 66, 72, 75, 87, 89, and 92 shall be compoundable.",
+          "sub_section_2": "Any judicial magistrate having local jurisdiction, any employee authorized by the Authority, or any officer not below the rank of superintendent of police or of an equivalent rank may compound the compoundable offences under the Act."
+        }
+      }
+    ]
+  },
+  {
+    "chapter_number": "XIV",
+    "chapter_title": "Miscellaneous",
+    "sections": [
+      {
+        "section_number": "118",
+        "section_title": "Obligation to obey orders and provide information",
+        "content": {
+          "sub_section_1": "If any person, driver, worker, motor vehicle owner or organization or their representative is instructed to provide any information or perform any other act under this Act, then such person, driver, worker, motor vehicle owner or organization or their representative shall be bound to comply with such instructions.",
+          "sub_section_2": "No person, driver, worker, motor vehicle owner or organization or their representative shall disobey or obstruct the implementation of any instruction given under sub-section (1) or refuse to provide the required information or intentionally provide incorrect information."
+        }
+      },
+      {
+        "section_number": "119",
+        "section_title": "Controlling aggressive behavior and public outrage",
+        "content": {
+          "sub_section_1": "In case of occurring any road accident, no damage shall be caused to the motor vehicle involved in the accident.",
+          "sub_section_2": "In order to save lives by ensuring medical services for the persons injured in the accident within fastest time and to avoid further accidents, no offensive behaviour shall be made to the driver or conductor of the motor vehicle involved in the accident.",
+          "sub_section_3": "The motor vehicle involved in the accident or the passengers of the motor vehicle or the persons assembled at the scene shall not engage in any offensive behaviour contrary to public order.",
+          "sub_section_4": "No damage shall be done to any passenger or freight transport vehicle under the banner of any organization and no offensive behaviour or act contrary to public order shall be taken against the common passenger."
+        }
+      },
+      {
+        "section_number": "120",
+        "section_title": "Delegation of power",
+        "content": {
+          "sub_section_1": "The Government may, by notification in the official Gazette, delegate all or any of its powers or duties under this Act, subject to such conditions as may be specified in the notification, upon any employee of the Authority, or any officer of the police not below the rank of a sub-inspector or sergeant or any agency engaged with the function of maintaining law and order."
+        }
+      },
+      {
+        "section_number": "121",
+        "section_title": "Digitisation",
+        "content": {
+          "sub_section_1": "For providing better service in the transport sector, the Government will undertake and implement digitisation programme.",
+          "sub_section_2": "Matters relating to undertaking and implementation of digitisation program shall be determined by rules."
+        }
+      },
+      {
+        "section_number": "122",
+        "section_title": "Power to make rules",
+        "content": {
+          "sub_section_1": "The Government may, by notification in the official Gazette, make rules for the purposes of this Act."
+        }
+      },
+      {
+        "section_number": "123",
+        "section_title": "Power to make regulations",
+        "content": {
+          "sub_section_1": "For the purpose of this Act, the Authority may, with the prior approval of the Government, by notification in the official Gazette, make regulations not inconsistent with this Act or rules made thereunder."
+        }
+      },
+      {
+        "section_number": "124",
+        "section_title": "Power of the Government to issue orders, formulate policies, etc.",
+        "content": {
+          "sub_section_1": "To ensure safe road transport management in terms of reality, the Government may, in the public interest, issue orders or formulate policies, from time to time, on any one or more of the following matters, namely:- (a) determining time-bound restrictions... (b) giving an opportunity to the motor vehicles registered at any place to renew the fitness... (c) making a lane-based layout of roads and highways... (d) arranging alternative ways for the movement of vehicles... (e) determining the number of vehicles on a particular road... (f) approving provisions relating to registration... of new or unusual types of motor vehicles; (g) imparting training for increasing the awareness of drivers... (h) encouraging the appointment of female drivers... (i) incorporating representatives of women, senior citizens and persons with disabilities... (j) making arrangements for outsourcing the specialized work... (k) any matter relating to ride sharing; (l) hearing and disposal of complaints... (m) designating places for passenger canopies, overpasses, underpasses... (n) providing legal protection to the persons who first comes to rescue the injured... (o) using carrier motor vehicles in transporting jeeps, sedan cars... (p) determining 'fastest time' for saving the life of a person injured... and (q) any other matter as considered by the Government.",
+          "sub_section_2": "On demand of the Authority for any instruction under sub-section (1) and upon necessity, the Government may issue such direction in this regard."
+        }
+      },
+      {
+        "section_number": "125",
+        "section_title": "Repeals and savings",
+        "content": {
+          "sub_section_1": "Motor Vehicles Ordinance, 1983 (Ordinance No. LV of 1983), hereinafter referred to as the said Ordinance, is hereby repealed.",
+          "sub_section_2": "Notwithstanding the repeal under sub-section (1), all acts done or actions taken, under the said Ordinance, shall be deemed to have been done or taken under this Act.",
+          "sub_section_3": "Any proceedings filed under the said Ordinance and remaining pending, shall be disposed of in such way as if the said Ordinance had not been repealed.",
+          "sub_section_4": "Until the rules and regulations are made under this Act; all rules, regulations, orders, instructions, notifications, etc. issued under the said Ordinance shall remain in force."
+        }
+      },
+      {
+        "section_number": "126",
+        "section_title": "Publication of Authentic English Text",
+        "content": {
+          "sub_section_1": "Upon the commencement of the Act, the Government shall, by notification in the official Gazette, publish an Authentic English Text of this Act.",
+          "sub_section_2": "In the event of any conflict between the Bangla and English texts, the Bangla text shall prevail."
+        }
+      }
+    ]
+  }
+]
+}
+
