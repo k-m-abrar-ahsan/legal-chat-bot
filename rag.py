@@ -21,7 +21,7 @@ print(f"✅ Index loaded ({len(chunks)} sections)\n")
 # 2. Load LLM
 # ---------------------------------------------------------
 MODEL_ID = "models/gemma-2-9b-it"  # Change this if you downloaded to a custom path
-print("⏳ Loading Qwen into RTX 4060 Ti...")
+print("⏳ Loading Qwen into GPU...")
 
 bnb_config = BitsAndBytesConfig(
     load_in_4bit=True,
